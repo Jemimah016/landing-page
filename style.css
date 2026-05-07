@@ -29,7 +29,7 @@ a {
 .hero {
     display: flex;
     justify-content: space-between;
-    align-item: center;
+    align-items: center;
     background-color: #1f2937;
     padding: 80px 120px;
     gap: 40px;
@@ -75,7 +75,7 @@ a {
 }
 .cards {
     display: flex;
-    justify-content: cenetr;
+    justify-content: center;
     gap: 52px;
     margin-top: 40px;
 }
